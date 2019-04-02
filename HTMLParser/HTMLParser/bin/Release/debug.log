@@ -1,0 +1,2 @@
+[0320/191455.801:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0320/191455.803:ERROR:exception_snapshot_win.cc(98)] thread ID 45472 not found in process
