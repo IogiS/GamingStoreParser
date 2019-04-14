@@ -104,7 +104,6 @@ C:\Users\Logis\source\repos\HTMLParser\HTMLParser\bin\Debug\AngleSharp.xml
 C:\Users\Logis\source\repos\HTMLParser\HTMLParser\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Logis\source\repos\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csprojAssemblyReference.cache
 C:\Users\Logis\source\repos\HTMLParser\HTMLParser\obj\Debug\HTMLParser.exe.config
-C:\Users\Logis\source\repos\HTMLParser\HTMLParser\obj\Debug\HTMLParser.Form1.resources
 C:\Users\Logis\source\repos\HTMLParser\HTMLParser\obj\Debug\HTMLParser.Properties.Resources.resources
 C:\Users\Logis\source\repos\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csproj.GenerateResource.cache
 C:\Users\Logis\source\repos\HTMLParser\HTMLParser\obj\Debug\HTMLParser.csproj.CoreCompileInputs.cache
@@ -115,3 +114,7 @@ C:\Users\Logis\source\repos\HTMLParser\HTMLParser\bin\Debug\WebDriver.dll
 C:\Users\Logis\source\repos\HTMLParser\HTMLParser\bin\Debug\WebDriver.Support.dll
 C:\Users\Logis\source\repos\HTMLParser\HTMLParser\bin\Debug\WebDriver.xml
 C:\Users\Logis\source\repos\HTMLParser\HTMLParser\bin\Debug\WebDriver.Support.xml
+C:\Users\Logis\source\repos\HTMLParser\HTMLParser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Logis\source\repos\HTMLParser\HTMLParser\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Logis\source\repos\HTMLParser\HTMLParser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Logis\source\repos\HTMLParser\HTMLParser\obj\Debug\HTMLParser.MyGames.resources
